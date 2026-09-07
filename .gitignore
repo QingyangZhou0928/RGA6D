@@ -1,0 +1,25 @@
+﻿# Python 编译缓存
+__pycache__/
+*.py[cod]
+*.class
+*.so
+
+# 权重模型与日志
+*.pth
+*.pth.tar
+*.pt
+checkpoints/
+snapshots/
+events.out.tfevents.*
+*.log
+
+# 数据集大文件
+datasets/
+*.pkl
+*.ply
+*.pcd
+
+# 操作系统及 IDE 缓存
+.vscode/
+.idea/
+.DS_Store
