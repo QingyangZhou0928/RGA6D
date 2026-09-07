@@ -10,7 +10,7 @@ Qingyang Zhou, Ziheng Li, Qingzhen Li, and Ye Ding.
 
 In this letter, we present a depth-only model-free 6D pose estimation framework centered on regional geometry-aware 3D-3D correspondence reasoning: (1) We introduce a Transformer with an Aggregate-Interact Propagate bottleneck to learn noise-robust regional geometric representations for correspondence construction; (2) We propose Regional Correspondence Consensus Reasoning to hierarchically generate candidate alignments for resolving structural ambiguities; (3) Extensive experiments on challenging T-LESS dataset demonstrate that RGA6D achieves superior performance among existing baselines.
 
-![Teaser](./assets/teaser.jpg "")
+![Teaser](./assets/Teaser.jpg "")
 
 ## News
 
